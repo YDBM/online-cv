@@ -9,16 +9,16 @@ sidebar:
 
 
     # 基本信息
-    name: 清弦.  # 你的姓名
-    tagline: 等风来 不如追风去 # 姓名下方的小字，一句话介绍自己，可以是座右铭/求职目标（算法工程师）/
+    name: 岳鼎  # 你的姓名
+    tagline: 中国传媒大学 # 姓名下方的小字，一句话介绍自己，可以是座右铭/求职目标（算法工程师）/
     avatar: avatar.jpeg  # 将你头像图片放在assets/images中，然后将文件名填在这里，注意要带后缀，如.jpeg/.png等
 
 
     # 以下内容如果自己没有可以在该行的最前面添加"#"
-    email: cuc_pyx@qq.com
-    phone: 18888888888
-    website: pyxblog.cn  # 个人主页链接，前面不要添加http://
-    github: cnicpyx  # GitHub用户名
+    email: yueding@cuc.edu.cn
+    phone: 15600749219
+    website: ydbm.github.io/online-cv/  # 个人主页链接，前面不要添加http://
+    github: ydbm  # GitHub用户名
 #    stack-overflow: # Number/Username, e.g. 123456/alandoe
 #    pdf:   # 如果有pdf版的简历，可以在这里放简历的下载链接，可以通过https://www.web2pdfconvert.com/将网页转换为pdf
 
@@ -26,13 +26,13 @@ sidebar:
     interests:
       title: 爱好
       info:
-        - item: 游泳
+        - item: 骑行
           link:
 
         - item: 编程
           link:
 
-        - item: 画饼
+        - item: 烹饪
           link:
 
 career-profile:
