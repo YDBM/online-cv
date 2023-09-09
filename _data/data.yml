@@ -60,83 +60,80 @@ education:
 experiences:
     title: 职业经历/实习经历
     info:
-      - role: 幼儿园老师
-        time: 2019 - Present
-        company: 翻斗幼儿园, 北京
+      - role: 参会人员
+        time: 2023.04
+        company: 首钢园, 北京
         details: |
-          介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
+          参与2023CCBN第29届中国国际广播电视信息网络展览会
 
-      - role: 坠机驾驶员
-        time: 2014 - 2015
-        company: GUTS, Chiba-ken
+      - role: 研究助理
+        time: 2023.07~2023.08
+        company: 中国传媒大学国家重点实验室
         details: |
-          介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
+          夏季学期参与教师《AI数字人对话系统》课题研究
 
-      - role: 美术生助理
-        time: 1931 - 1945
-        company: Berlin, German
-        details: |
-          介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
+      
 
 
 certifications:
       title: 所获荣誉
       list:
-        - name: 中传青年五四奖章·科创新秀
-          start: 2022
+        - name: 中国传媒大学三好学生
+          start: 2020
           end:
-          organization: 中国传媒大学
+#          organization: 中国传媒大学
 #          credentialid: 111-222  # 好像是证书编号
-          credentialurl: https://mp.weixin.qq.com/s/Yy1517N0oefRJWWWsE8BQA
-          credentialname: 传媒团英
-          details: |
-            简单介绍一下该荣誉的含金量和你为此付出的努力/它能体现出你具有什么能力。
+#          credentialurl: https://mp.weixin.qq.com/s/Yy1517N0oefRJWWWsE8BQA
+#          credentialname: 传媒团英
+#          details: |
+#            简单介绍一下该荣誉的含金量和你为此付出的努力/它能体现出你具有什么能力。
 
-        - name: 年度双创人物
-          start: 2021
-          end: 2023
-          organization: 教育部
-          credentialurl: http://gjcxcy.bjtu.edu.cn
-          credentialname: 全国大学生创新创业年会
-          details: |
-            简单介绍一下该荣誉的含金量和你为此付出的努力/它能体现出你具有什么能力。
+        - name: 中国传媒大学三等奖学金
+          start: 2020
+          end: 2021
+#          organization: 教育部
+#          credentialurl: http://gjcxcy.bjtu.edu.cn
+#          credentialname: 全国大学生创新创业年会
+#          details: |
+#            简单介绍一下该荣誉的含金量和你为此付出的努力/它能体现出你具有什么能力。
+
+        - name: 中视广信奖学金
+          start: 2022
+          end: 
 
 
 projects:
     title: 项目经历
     intro: >
-      在这里罗列你参与过的项目经历。
+      **国家级**大创项目负责人/学院**唯一优秀结项**
 
     assignments:
-      - title: 品牌食品加工
-        link: "#"
-        tagline: "主要负责给苏打饼干扎眼儿、给趣多多点巧克力豆。"
+      - title: AI导播《镜观风云》
+        link: " https://www.bilibili.com/video/BV1mh4y1v73f/?share_source=copy_web&vd_source=d694959b1a93de43237e27ce87f3db54"
+        tagline: "基于YOLOv3算法，以及人脸情感检测模型，在unity3D虚拟舞台中通过算法检测结果实时运镜切镜，完成了云演艺导播自动化"
 
-      - title: 拾忆
-        link: "#"
-        tagline: "面向博物馆、档案馆提供AI+人工的影像精修服务。"
+      - title: AI数字人对话系统
+        link: "https://www.bilibili.com/video/BV1Lh4y1N7Ma/?share_source=copy_web&vd_source=d694959b1a93de43237e27ce87f3db54"
+        tagline: "结合微软语音识别技术和GPT大模型API，实时数字人对话系统"
 
 
 publications:
     title: 发表论文
     intro: |
-      在此列举你的学术成果或其他出版物/可以通过链接访问的成果。
+      
 
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: 《基于YOLOv3-tiny的智能侦察虚拟训练系统研究》
+        link: "https://bzxb.cqut.edu.cn/paperinfo.aspx?paperid=11180"
+        authors: 	靳晓芳,岳鼎,刘金羽
+        conference: 《兵器装备工程学报》北大核心,2022.12 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: 《The Research and Improvement of Facial Expression Recognition Algorithm Based on Convolutional Neural Network》
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Jin XiaoFang，Liu JinYu，Yue Ding
+        conference: IEEE / ACIS SNPD2023（EI）,2023.05
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      
 
 skills:
     title: 技能
