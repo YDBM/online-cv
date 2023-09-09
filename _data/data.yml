@@ -135,11 +135,13 @@ publications:
       - title: 《基于YOLOv3-tiny的智能侦察虚拟训练系统研究》
         link: "https://bzxb.cqut.edu.cn/paperinfo.aspx?paperid=11180"
         authors: 	靳晓芳,岳鼎,刘金羽
-        conference: 《兵器装备工程学报》北大核心,2022.12 
+        conference: 《兵器装备工程学报》北大核心,2022.12 ,本文针对无人机侦察训练，利用虚拟场景和目标检测算法，以降低训练成本，提升效率，保障安全。系统使用YOLOv3-tiny算法和Unity3D组件进行数据传输和目标检测。经过测试，该系统实现了稳定的无人机智能侦察功能，目标检测速度稳定在25fps，识别置信度达80%以上，并获得了良好的评价。
+
+
 
       - title: 《The Research and Improvement of Facial Expression Recognition Algorithm Based on Convolutional Neural Network》
         authors: Jin XiaoFang，Liu JinYu，Yue Ding
-        conference: IEEE / ACIS SNPD2023（EI）,2023.05
+        conference: IEEE / ACIS SNPD2023（EI）,2023.05,本文针对人脸表情识别问题，评估并比较了三种主流卷积神经网络方法：CNN、MobileNet和RepVGG，并根据最优算法和数据集特性优化数据集，提高了准确率。
 
       
 
