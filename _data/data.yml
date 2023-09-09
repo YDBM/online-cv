@@ -100,12 +100,21 @@ certifications:
         - name: 中视广信奖学金
           start: 2022
           end: 
+          
+        - name: “青创北京”2023 年“挑战杯”获**省级三等奖**
+          start: 2023.05
+          end:
+          
+        - name: 第九届中国国际“互联网+”大学生创新创业大赛 **省级二等奖**
+          start: 2023.08
+          end: 
+          
 
 
 projects:
     title: 项目经历
     intro: >
-      **国家级**大创项目负责人/学院**唯一优秀结项**
+      **国家级**大创项目**负责人**/学院**唯一优秀结项**
 
     assignments:
       - title: AI导播《镜观风云》
@@ -139,22 +148,22 @@ skills:
     title: 技能
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Unity/Blender
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: c#/c++
+        level: 75%
 
-      - name: Angular
-        level: 98%
+      - name: Python
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: PR
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Java
+        level: 65%
 
-      - name: Sketch & Photoshop
+      - name: HTML
         level: 60%
 
 footer: >
